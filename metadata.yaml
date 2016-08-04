@@ -1,0 +1,49 @@
+_repo: Phaedrus_1636
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: Phaedrus is widely recognized as one of Plato's most profound and beautiful
+  works. It takes the form of a dialogue between Socrates and Phaedrus and its ostensible
+  subject is love, especially homoerotic love. This new translation is accompanied
+  by an introduction and full notes that discuss the structure of the dialogue and
+  elucidate issues that might puzzle the modern reader. - ;'Some of our greatest blessings
+  come from madnessPhaedrus is widely recognized as one of Plato's most profound and
+  beautiful works. It takes the form of a dialogue between Socrates and Phaedrus and
+  its ostensible subj.
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love -- Early works to 1800'
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcsh 'Classical literature'
+- !lcc 'PA'
+- !lcsh 'Lysias'
+- !lcsh 'Rhetoric, Ancient'
+- !lcc 'B'
+- !lcsh 'Soul -- Early works to 1800'
+- !lcsh 'Rhetoric -- Early works to 1800'
+- GITenberg
+title: Phaedrus
+url: http://www.gutenberg.org/ebooks/1636
